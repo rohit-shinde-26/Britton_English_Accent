@@ -57,3 +57,16 @@ Hello professor, good morning
 - Good bye (Everyone)
 - Bye (Friends)
 - Bye Bye (Children)
+
+===========================================================================================
+## 4 Useful Expression
+### Listen and repeat
+1. Read
+2. Write
+3. Say
+
+[Please for everyone]
+  - When you confused (You cant understand question) <br/>
+  => I'm sorry i don't understand
+
+  - Excuse me, I have a question                                                                      
