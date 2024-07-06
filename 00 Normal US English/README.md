@@ -70,3 +70,12 @@ Hello professor, good morning
   => I'm sorry i don't understand
 
   - Excuse me, I have a question                                                                      
+
+===========================================================================================
+## 5 More Useful Expression
+### Listen and repeat
+Use say and make sentences
+
+Do
+Do you understand ?
+Yes i do
